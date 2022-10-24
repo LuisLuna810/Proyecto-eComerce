@@ -1,0 +1,12 @@
+body{
+    background-color: white;
+}
+
+.linea button{
+    background: none;
+    width: 30px;
+}
+
+.sbtotal{
+    font-size: x-large;
+}
